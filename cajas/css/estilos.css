@@ -1,0 +1,267 @@
+.container{
+    width: 900px;
+    margin: 0 auto;
+    height: 920px;
+    background-color: blue;
+    border: 5px double #ccc;
+}
+.fila1{
+    background-color: aquamarine;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: coral;
+}
+.fila2{
+    background-color: rgb(185, 201, 43);
+    padding: 7px;
+}
+.fila2 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(5, 5, 5) 2px;
+    width: 170px;
+}
+.fila3{
+    background-color: rgb(43, 54, 201);
+    padding: 7px;
+    height: 25px;
+}
+.fila3 p{
+    background-color: rgb(201, 177, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: left;
+    margin-right: 15px;
+    
+}
+p{
+    font-size: 15px;
+}
+
+.fila4{
+    background-color: rgb(43, 201, 43);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid #000;
+}
+.fila4 p{
+    background-color: rgb(98, 43, 201);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: left;
+    margin-right: 15px;
+}
+.fila5{
+    background-color: rgb(85, 43, 201);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid #000;
+    border-top: 2.5px ;
+}
+.fila5 p{
+    background-color: rgb(201, 43, 56);
+    border: rgb(43, 31, 43) solid 2px;
+    float: left;
+    margin-right: 15px;
+}
+.fila6{
+    background-color: rgb(31, 37, 31);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila7{
+    background-color: rgb(193, 243, 13);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila7 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila8{
+    background-color: rgb(13, 243, 101);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila8 p{
+    background-color: rgb(18, 15, 190);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila9{
+    background-color: rgb(59, 243, 13);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila9 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila10{
+    background-color: rgb(243, 13, 166);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila10 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila11{
+    background-color: rgb(243, 13, 166);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila11 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila12{
+    background-color: rgb(243, 13, 166);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila12 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila13{
+    background-color: rgb(243, 13, 166);
+    padding: 7px;
+    height: 25px;
+    border: 5px solid rgb(235, 223, 223);
+    
+}
+.fila13 p{
+    background-color: rgb(201, 43, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    width: 170px;
+    float: right;
+    margin-right: 15px;
+}
+.fila14{
+    background-color: rgb(59, 243, 13);
+    padding-top: 7px;
+    height: 25px;
+    
+    
+}
+.fila14 p{
+    background-color: rgb(245, 250, 244);
+    width: 170px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.fila15{
+    background-color: rgb(243, 13, 13);
+    padding-top: 7px;
+    height: 25px;
+    text-align: center;
+}
+
+.fila15 p{
+    background-color: rgb(245, 250, 244);
+    width: 170px;
+    float: left;
+    text-align: center;
+    margin-right: 15px;
+}
+.fila16{
+    background-color: rgb(28, 13, 243);
+    padding-top: 7px;
+    height: 25px;
+    margin: 0 auto;
+    text-align: center;
+}
+.fila16  p{
+    background-color: rgb(238, 245, 237);
+    width: 170px;
+    float:left ;
+    text-align: center;
+    margin-right: 15px;
+}
+.fila17{
+    background-color: rgb(223, 112, 22);
+    height: 50px;
+    border: rebeccapurple solid 5px;
+}
+.fila17 p{
+    background-color: rgb(201, 177, 43);
+    margin: 2px;
+    
+    border: rgb(43, 31, 43) solid 2px;
+}
+.fila18{
+    background-color: rgb(49, 4, 248);
+    height: 50px;
+    border: rgb(66, 167, 41) solid 5px;
+}
+.fila18 p{
+    background-color: rgb(201, 177, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    margin-right: 15px;
+    margin: 2px;
+    width: 400px;
+}
+.fila19{
+    background-color: rgb(223, 112, 22);
+    height: 50px;
+    padding-top: 5px;
+    
+}
+.fila19 p{
+    background-color: rgb(201, 177, 43);
+    border: rgb(43, 31, 43) solid 2px;
+    margin-right: 15px;
+    margin: 1px;
+    width: 400px;
+}
+
+.fila20{
+    background-color: rgb(79, 223, 22);
+    height: 60px;
+}
+
+.fila20 p{
+    background-color: rgb(201, 177, 43);
+    border: rgb(43, 31, 43) solid 5px;
+   float: left;
+   height: 50px;
+   
+}
+
+
